@@ -13,7 +13,7 @@
       "url": "https://github.com/jshull/FP_Utility_EDU.git"
     },
     "dependencies": {
-      "com.unity.mathematics": "1.2.6"
+       "com.fuzzphyte.utility": "https://github.com/JShull/FP_Utility.git"
     },
     "keywords": [
       "ScriptableObject",
