@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2be9bb2aca60b7a41b4b4cd8eb11b169, type: 3}
+  m_Name: Cybersecurity_2.9_Objective
+  m_EditorClassIdentifier: 
+  UniqueID: V_A_O_2_9_001
+  VAStandardIndex: .9
+  StatePDFPageRef: 41
+  Objective: The student will explain what is allowed and what is not allowed at
+    school associated with the use of technology (e.g., class rules)
+  SubObjectives: []
+  ContextOfStandard: Computer networks, including the Internet, can be used to connect
+    people to other people, places, information, and ideas. In order to keep students
+    safe, schools and divisions have rules on the appropriate use of technology.
+    All students should be aware of what is allowed and not allowed when using division/school
+    technology. Appropriate use of technology as well as school and division rules
+    when using technology should be reviewed with students on a regular basis. Consistent
+    monitoring of students when engaged with technology should be conducted at all
+    times.
+  EssentialSkills:
+  - {fileID: 11400000, guid: 416f085896ac24948a61fd0a00839d24, type: 2}
+  - {fileID: 11400000, guid: 85d4a102e573a6940a1790c3774a6d25, type: 2}
+  - {fileID: 11400000, guid: f62aac7e8093b8b49978b4f70fbefe0f, type: 2}
+  EssentialQuestions:
+  - {fileID: 11400000, guid: 626db2b9901cab149abe6e96a45ec8ed, type: 2}
+  - {fileID: 11400000, guid: 49ad1fb5c0dc84d4b936e657beb1d957, type: 2}
+  Vocabulary: []

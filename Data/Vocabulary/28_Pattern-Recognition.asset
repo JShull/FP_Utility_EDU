@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce33cf22d5436eb43ab841dd6d615194, type: 3}
+  m_Name: 28_Pattern-Recognition
+  m_EditorClassIdentifier: 
+  UniqueID: V_A_00028
+  Word: Pattern-Recognition
+  URLReference: https://easypronunciation.com/en/english-phonetic-transcription-converter
+  IPAPronunciation: "p\xE6t\u0259n \u02CCr\u025Bk\u0259\u0261\u02C8n\u026A\u0283\u1D4An"
+  URLWikiAudioOfWord: https://en-audio.howtopronounce.com/15798365945e2a64b252d7e.mp3
+  URLAudioType: 13
+  Image: {fileID: 0}
+  Details:
+  - {fileID: 11400000, guid: d0712584220d03c41b57af1f6ef02d32, type: 2}

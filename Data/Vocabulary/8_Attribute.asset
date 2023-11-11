@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce33cf22d5436eb43ab841dd6d615194, type: 3}
+  m_Name: 8_Attribute
+  m_EditorClassIdentifier: 
+  UniqueID: V_A_00008
+  Word: Attribute
+  URLReference: https://en.wiktionary.org/wiki/attribute
+  IPAPronunciation: 
+  URLWikiAudioOfWord: 
+  Image: {fileID: 0}
+  Details:
+  - {fileID: 11400000, guid: 9d94ae2bad4a4d84596fbce8aeede1b8, type: 2}
+  - {fileID: 11400000, guid: c9b71b49f33fd1249b422bd0e6b18f68, type: 2}
+  - {fileID: 11400000, guid: 6e62fb464fc182e428da8e7cb0f02c39, type: 2}

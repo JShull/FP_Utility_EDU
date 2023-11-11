@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce33cf22d5436eb43ab841dd6d615194, type: 3}
+  m_Name: Loop
+  m_EditorClassIdentifier: 
+  UniqueID: V_A_00002
+  Word: Loop
+  URLReference: https://en.wikipedia.org/wiki/Control_flow#Loops
+  IPAPronunciation: "lu\u02D0p"
+  URLWikiAudioOfWord: https://en.wiktionary.org/wiki/File:LL-Q1860_(eng)-Vealhurl-loop.wav
+  URLAudioType: 20
+  Image: {fileID: 0}
+  Details:
+  - {fileID: 11400000, guid: d12e2ac5d089e494d92b7ad31f726230, type: 2}
+  - {fileID: 11400000, guid: aa03024f0fe7ec84bbdd9e912e912d23, type: 2}
+  - {fileID: 11400000, guid: 403212aaa31ea3a4c9218ecfb79d81df, type: 2}
+  - {fileID: 11400000, guid: 86a6214aafe483749b6b602516e66291, type: 2}
+  - {fileID: 11400000, guid: e17c89859993319458739632957c5521, type: 2}
+  - {fileID: 11400000, guid: 8dcf58d586b3be541b18588f805f9efa, type: 2}

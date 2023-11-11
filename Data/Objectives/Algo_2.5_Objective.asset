@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2be9bb2aca60b7a41b4b4cd8eb11b169, type: 3}
+  m_Name: Algo_2.5_Objective
+  m_EditorClassIdentifier: 
+  UniqueID: V_A_O_2_5_001
+  VAStandardIndex: .5
+  StatePDFPageRef: 37
+  Objective: The student will compare and contrast a group of items based on the
+    attributes or actions of each item, with or without a computing device.
+  SubObjectives: []
+  ContextOfStandard: Objects and actions have attributes; these attributes allow
+    people to group items. Attributes may be physical properties, behaviors, or actions.
+    Actions in computer science are reflected in step-by-step sequences (algorithms).
+    Actions may include back and forth movement, turning, and stopping. Categorizing
+    of attributes or actions relies on careful observation of patterns and similarities
+    and differences. In this standard, students are expected to analyze groups of
+    items and compare and contrast the attributes that led to the development of
+    the group. In block-based programming environments, commands are grouped into
+    categories based on function. In higher level programming languages, data are
+    often classified by the type and format of the information.
+  EssentialSkills:
+  - {fileID: 11400000, guid: 9513bc6f2be81d04faef7265d69c42ea, type: 2}
+  - {fileID: 11400000, guid: 01e8a8b24f93eea4bb9b36ef944beed7, type: 2}
+  - {fileID: 11400000, guid: e1de6981b3686204c92116ee120d6322, type: 2}
+  EssentialQuestions:
+  - {fileID: 11400000, guid: be0a5dae06810ad44bc16edb2bf69eba, type: 2}
+  - {fileID: 11400000, guid: f88cec0cd9ded314cab518087266f3a3, type: 2}
+  - {fileID: 11400000, guid: dbd3b3ec7f5d760499c9e347b2cd5276, type: 2}
+  Vocabulary:
+  - {fileID: 11400000, guid: 73a9da70a311aaa4b8358abc473f25c3, type: 2}

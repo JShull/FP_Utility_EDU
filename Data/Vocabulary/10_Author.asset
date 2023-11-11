@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce33cf22d5436eb43ab841dd6d615194, type: 3}
+  m_Name: 10_Author
+  m_EditorClassIdentifier: 
+  UniqueID: V_A_00010
+  Word: Author
+  URLReference: https://en.wiktionary.org/wiki/author
+  IPAPronunciation: 
+  URLWikiAudioOfWord: 
+  Image: {fileID: 0}
+  Details:
+  - {fileID: 11400000, guid: 00c9259ad59f90742b8830fcbee4fc72, type: 2}
+  - {fileID: 11400000, guid: d5cb445d38bd1584fbb2b8f350cd5c99, type: 2}
+  - {fileID: 11400000, guid: 31c2e652f44ebe546ae21de36e163651, type: 2}
+  - {fileID: 11400000, guid: 25094c6bd4092eb479cbefa27d487330, type: 2}
+  - {fileID: 11400000, guid: f347c04ea2ad4404286ae789585e23ba, type: 2}

@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2be9bb2aca60b7a41b4b4cd8eb11b169, type: 3}
+  m_Name: NetworkInternet_2.15_Objective 1
+  m_EditorClassIdentifier: 
+  UniqueID: V_A_O_2_15_001
+  VAStandardIndex: .1
+  StatePDFPageRef: 48
+  Objective: THe students will discuss with partners and as a class how information
+    can be communicated electronically (e.g. email, social media, video conferencing,
+    and blogging)
+  SubObjectives: []
+  ContextOfStandard: Online communication facilitates positive interactions, such
+    as sharing ideas with many people, including friends and family around the world.
+    It also allows opportunities for scientists, mathematicians, business people,
+    and many other professionals to communicate about projects they are working on
+    together. Types of electronic communication include email, video conferencing,
+    blogs, and social media platforms. People with similar interests can meet through
+    social media or email and share information. When using social media or email
+    with strangers, do not share personal information such as phone number or address.
+    Pictures should not be shared with unknown parties using digital communication
+    such as social media or email
+  EssentialSkills:
+  - {fileID: 11400000, guid: cfb1304134732844ea36d01a80d6aa53, type: 2}
+  - {fileID: 11400000, guid: 387894232e2b52d49a14036afc5ebd7a, type: 2}
+  EssentialQuestions:
+  - {fileID: 11400000, guid: 07ddd5100ff46424fa22003970ac5fb0, type: 2}
+  - {fileID: 11400000, guid: 278f4c7612c39fe4281227acabb0b683, type: 2}
+  Vocabulary:
+  - {fileID: 11400000, guid: dcd8db9a47d3b7446a1091da528a2db8, type: 2}
+  - {fileID: 11400000, guid: cc3bcc6b5c23f944cb565e34a7c55490, type: 2}
+  - {fileID: 11400000, guid: 63d5ebc8898ca0841803be32f8b48441, type: 2}
+  - {fileID: 11400000, guid: 1b16dd2bc1cad3444a39590b9d10ae8d, type: 2}

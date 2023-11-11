@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce33cf22d5436eb43ab841dd6d615194, type: 3}
+  m_Name: 31_CloudComputing
+  m_EditorClassIdentifier: 
+  UniqueID: V_A_00031
+  Word: Cloud-Computing
+  URLReference: https://en.wiktionary.org/wiki/cloud_computing
+  IPAPronunciation: "kla\u028Ad k\u0259m\u02C8pju\u02D0t\u026A\u014B"
+  URLWikiAudioOfWord: ssl.gstatic.com/dictionary/static/pronunciation/2022-03-02/audio/cl/cloud%20computing_en_us_1.mp3
+  URLAudioType: 13
+  Image: {fileID: 0}
+  Details:
+  - {fileID: 11400000, guid: 552947b02ff4e53429f995c819295e2c, type: 2}

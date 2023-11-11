@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2be9bb2aca60b7a41b4b4cd8eb11b169, type: 3}
+  m_Name: D_A_2.12_Objective 2
+  m_EditorClassIdentifier: 
+  UniqueID: V_A_O_2_12_001
+  VAStandardIndex: .12
+  StatePDFPageRef: 44
+  Objective: The student will create a model of a physical object or process in order
+    to show relationships with or without a computing device (e.g., water cycle,
+    butterfly life cycle, seasonal weather patterns).
+  SubObjectives: []
+  ContextOfStandard: 'Scientists, computer scientists, mathematicians, and programmers
+    construct and use models to better conceptualize and understand
+
+    phenomena
+    under investigation or to develop a possible solution to a proposed problem.
+    Models include diagrams, physical replicas,
+
+    mathematical representations,
+    analogies, and computer simulations. Models are used to represent a system (or
+    parts of a system)
+
+    under study, to aid in the development of questions and
+    explanations, to generate data that can be used to make predictions, and to
+
+    communicate
+    ideas to others. In second grade, students are expected to create simple models.
+    These models may be created using a computing device.'
+  EssentialSkills:
+  - {fileID: 11400000, guid: 198f444112dffe5419bf2c6e685ed7bf, type: 2}
+  - {fileID: 11400000, guid: 2fa34d619e9b2a0429cc105d2b87b33a, type: 2}
+  EssentialQuestions:
+  - {fileID: 11400000, guid: 756a9a64a62da404caab8532fbd9c973, type: 2}
+  - {fileID: 11400000, guid: fc9b1c696979d654b99754c7a32ba4c6, type: 2}
+  - {fileID: 11400000, guid: e2a6f29e3ab4b5c4bb9d56dc439f99fe, type: 2}
+  Vocabulary:
+  - {fileID: 11400000, guid: c8d6fc16ce1b06943a5cfe5aa8425332, type: 2}

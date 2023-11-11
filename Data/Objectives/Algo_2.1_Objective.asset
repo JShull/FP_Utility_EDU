@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2be9bb2aca60b7a41b4b4cd8eb11b169, type: 3}
+  m_Name: Algo_2.1_Objective
+  m_EditorClassIdentifier: 
+  UniqueID: V_A_O_2_1_001
+  VAStandardIndex: .1
+  StatePDFPageRef: 32
+  Objective: The student will construct sets of step-by-step instructinos (algorithms)
+    both independently and collaboratively
+  SubObjectives:
+  - {fileID: 11400000, guid: 15a017e7abb3e4f46a2e993485238d92, type: 2}
+  - {fileID: 11400000, guid: 7a187a25c58dad54c8fa49584f89690a, type: 2}
+  - {fileID: 11400000, guid: f9dd138342a013241b440d4e20590ac0, type: 2}
+  ContextOfStandard: "\rAt school and at home, students engage in step-by-step activities
+    on a routine basis. These may include such activities as brushing their teeth
+    or preparing to leave school at the end of the school day. When students document
+    these step-by-step instructions they are creating algorithms. Sometimes there
+    are repeating steps in a task, and students can create a loop in their algorithm
+    to indicate that repeating pattern. Algorithms can be created with or without
+    computers. In first grade the students are introduced to the use of loops, in
+    second grade this understanding expands to include repeating patterns and growing
+    patterns. In second grade, the construction of loops becomes more complex as
+    students use a wide variety of patterns to include repeating and growing patterns.
+    In a repeating pattern the units of the pattern repeat and remain the same. In
+    a growing pattern, an addition is added to the pattern causing the pattern to
+    change every time it repeats. Growing patterns involve a progression from step
+    to step which make them more difficult for students than repeating patterns.
+    Repeating and growing patterns are foundational in mathematics in the development
+    of algebraic reasoning and in computer science in developing computational thinking."
+  EssentialSkills:
+  - {fileID: 11400000, guid: 147e029349b6ba0498bae6f5eeba2e0a, type: 2}
+  - {fileID: 11400000, guid: cc155098ed30ad24d9a2394fbb18db7e, type: 2}
+  - {fileID: 11400000, guid: 4c55efb2b4a0b7e44a7e58615f2fbefa, type: 2}
+  - {fileID: 11400000, guid: d4e389dbee6acc341ac278237b981c65, type: 2}
+  - {fileID: 11400000, guid: 255973e8087041049b2505c10a3f5cd3, type: 2}
+  EssentialQuestions:
+  - {fileID: 11400000, guid: b37a59ddfce53ef4e941856372b9e710, type: 2}
+  - {fileID: 11400000, guid: 5f8d7620c4dadbf46a984b0c5e8a18f9, type: 2}
+  - {fileID: 11400000, guid: 9fa4008e073d6424f8783f1512c5fbb8, type: 2}
+  - {fileID: 11400000, guid: e0c8f28786e54094cacec87b1e294f1a, type: 2}
+  Vocabulary:
+  - {fileID: 11400000, guid: 89b5548a47d3dbd439beb464b7c600a1, type: 2}
+  - {fileID: 11400000, guid: 36d87fb30ed44fc4fbc39dca378e3596, type: 2}

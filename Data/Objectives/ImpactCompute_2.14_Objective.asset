@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2be9bb2aca60b7a41b4b4cd8eb11b169, type: 3}
+  m_Name: ImpactCompute_2.14_Objective
+  m_EditorClassIdentifier: 
+  UniqueID: V_A_O_2_14_001
+  VAStandardIndex: .1
+  StatePDFPageRef: 47
+  Objective: The student will identify and model responsible behaviors when using
+    information and technology
+  SubObjectives: []
+  ContextOfStandard: Responsible behavior should always be used when working with
+    computers, such as not sharing login information, keeping passwords private,
+    and logging off when finished. These behaviors apply regardless of whether a
+    student is at school or on a computer at another location. In addition to keeping
+    information private, responsible behaviors should be exhibited when engaging
+    in online communications. Online communication facilitates positive interactions,
+    such as sharing ideas with many people, but the public and anonymous nature of
+    online communication also allows for intimidating and inappropriate behavior
+    in the form of cyberbullying. Cyberbullying is a form of bullying that occurs
+    when online communications are sent that are intimidating or threatening in nature.
+  EssentialSkills:
+  - {fileID: 11400000, guid: 0cb318e1c3904964095674a1ba0eeeed, type: 2}
+  - {fileID: 11400000, guid: 59f6ec7c4034f6743bde4fc0fe89a0f2, type: 2}
+  - {fileID: 11400000, guid: a4310f77d0d4a954d8b3b08aad41c490, type: 2}
+  - {fileID: 11400000, guid: 086ff1c3207e40d4d8514f0951a4e3b6, type: 2}
+  EssentialQuestions:
+  - {fileID: 11400000, guid: a28888637f8d5f3418b57360256df9da, type: 2}
+  - {fileID: 11400000, guid: 7a619e78ac48bfa499f4208d865e1112, type: 2}
+  - {fileID: 11400000, guid: 881973fc73bfd0944abba02dd5af40a6, type: 2}
+  - {fileID: 11400000, guid: 9d5ebdc9717eb2d4c9c385bb78e32569, type: 2}
+  - {fileID: 11400000, guid: f2e85424dd2055b47b748924ecce2411, type: 2}
+  Vocabulary:
+  - {fileID: 11400000, guid: cb455b402947ccd4c8f34f8bc7caf23e, type: 2}

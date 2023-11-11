@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce33cf22d5436eb43ab841dd6d615194, type: 3}
+  m_Name: 3_Event
+  m_EditorClassIdentifier: 
+  UniqueID: V_A_00003
+  Word: Event
+  URLReference: https://en.wikipedia.org/wiki/Event_(computing)
+  IPAPronunciation: "\u026A\u02C8v\u025Bnt"
+  URLWikiAudioOfWord: ssl.gstatic.com/dictionary/static/pronunciation/2022-03-02/audio/ev/event_en_us_1.mp3
+  URLAudioType: 13
+  Image: {fileID: 0}
+  Details:
+  - {fileID: 11400000, guid: b4d92a7bcc5d513429d3830f6ef7068c, type: 2}
+  - {fileID: 11400000, guid: 461f224fd37087449b109886e64c1cb6, type: 2}

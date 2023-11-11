@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2be9bb2aca60b7a41b4b4cd8eb11b169, type: 3}
+  m_Name: Algo_2.7_Objective
+  m_EditorClassIdentifier: 
+  UniqueID: V_A_O_2_7_001
+  VAStandardIndex: .7
+  StatePDFPageRef: 39
+  Objective: The student will describe the characteristics of computing systems to
+    include hardware, software, input, and output.
+  SubObjectives: []
+  ContextOfStandard: A system is defined as a regularly interacting or interdependent
+    group of items forming a unified whole. A computing system is composed of hardware
+    and software. Hardware consists of physical components, while software provides
+    instructions for the system. These instructions are represented in a form that
+    a computer can understand and allow the user to input information and, once the
+    task is completed, obtain output in a form that can be understood. Hardware and
+    software work together as a system to accomplish tasks, such as sending, receiving,
+    processing, and storing units of information. Hardware devices include screens
+    to display information and buttons, keys, or touch screens to enter information.
+    Software applications are programs with specific purposes, such as a web browser
+    or game. A person may use a mouse (hardware) to click on a button displayed in
+    a web browser (software) to navigate to a new web page.
+  EssentialSkills:
+  - {fileID: 11400000, guid: 333a6575e4d08734ab596d25563e4b8a, type: 2}
+  - {fileID: 11400000, guid: dd9a13733817c3e4d94ebad8906e5bbb, type: 2}
+  - {fileID: 11400000, guid: 1d142b384976b4047b71c311dac9e316, type: 2}
+  EssentialQuestions:
+  - {fileID: 11400000, guid: 2ffc257694c6ef24fa18731b50a44568, type: 2}
+  - {fileID: 11400000, guid: a911132019a31dd4b8be7b1996cb9e9e, type: 2}
+  - {fileID: 11400000, guid: 3772a7872377b5c48bcb87612adbf05c, type: 2}
+  - {fileID: 11400000, guid: 513f99c4fc13a4447a046ad400c741c4, type: 2}
+  Vocabulary:
+  - {fileID: 11400000, guid: 88dd9a4740ffe924caa590c3d0057dd6, type: 2}
+  - {fileID: 11400000, guid: 1a741b78d855e284384386400b095291, type: 2}
+  - {fileID: 11400000, guid: 5e911041c8a3cf0419a712f50971cf48, type: 2}
+  - {fileID: 11400000, guid: 4665127cc7055ab4fb65e0d9bb83ce47, type: 2}

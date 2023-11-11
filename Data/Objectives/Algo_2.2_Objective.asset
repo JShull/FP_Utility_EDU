@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2be9bb2aca60b7a41b4b4cd8eb11b169, type: 3}
+  m_Name: Algo_2.2_Objective
+  m_EditorClassIdentifier: 
+  UniqueID: V_A_O_2_2_001
+  VAStandardIndex: .2
+  StatePDFPageRef: 34
+  Objective: The student will construct programs to accomplish tasks as a means of
+    creativie expression using a block-based programming language or unplugged activities,
+    both independently and collaboratively
+  SubObjectives:
+  - {fileID: 11400000, guid: 15a017e7abb3e4f46a2e993485238d92, type: 2}
+  - {fileID: 11400000, guid: 7a187a25c58dad54c8fa49584f89690a, type: 2}
+  - {fileID: 11400000, guid: f9dd138342a013241b440d4e20590ac0, type: 2}
+  ContextOfStandard: When an algorithm or a set of algorithms is tested, a program
+    has been created. People work together to plan, create and test these programs.
+    This process of planning, creating, and testing a program or algorithm is called
+    programming and is used to create a wide variety of products such as video games,
+    interactive art projects and digital stories. In second grade, students are expected
+    to develop simple programs that use both sequencing and simple loops to complete
+    a task. These programs may be developed using block-based or unplugged activities.
+    Block-based programs (e.g., Scratch Jr., Tynker) allow students to develop simple
+    algorithms using a computer. Students are also expected to identify events; an
+    event is an action or occurrence detected by a program.
+  EssentialSkills:
+  - {fileID: 11400000, guid: 025f81fcf4c3c1242bbf750a357e30bf, type: 2}
+  - {fileID: 11400000, guid: 010f37822199f4541bf9d93627483671, type: 2}
+  - {fileID: 11400000, guid: 0e3deaf3fc26e7a478d415e52e84dbb3, type: 2}
+  EssentialQuestions:
+  - {fileID: 11400000, guid: 0a75cb84ede52724580582d0937c2e6b, type: 2}
+  - {fileID: 11400000, guid: 221a90ebc5870dd48a58dd462e8dd384, type: 2}
+  - {fileID: 11400000, guid: a0bf8e6b40a91d34599d63e9c6a64ec8, type: 2}
+  Vocabulary:
+  - {fileID: 11400000, guid: 36d87fb30ed44fc4fbc39dca378e3596, type: 2}
+  - {fileID: 11400000, guid: 89b5548a47d3dbd439beb464b7c600a1, type: 2}
+  - {fileID: 11400000, guid: 91ea863f22e38eb42b6dbc3aa99b5259, type: 2}
+  - {fileID: 11400000, guid: a08474cf19fb47f4e96d7dc4e9415f12, type: 2}

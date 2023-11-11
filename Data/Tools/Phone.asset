@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de41d76acdc29db459b69abc645968d4, type: 3}
+  m_Name: Phone
+  m_EditorClassIdentifier: 
+  UniqueID: phone_coco_tool_002
+  ToolTheme: {fileID: 11400000, guid: a53cd9709ce09cd4c888cf23be05848b, type: 2}
+  ToolDescription: The phone allows you to run applications, give you insight to
+    your environment, and send you notifications.
+  ToolTags:
+  - {fileID: 11400000, guid: 36fd93d093bbeb44590dca5fd8d8395c, type: 2}
+  - {fileID: 11400000, guid: ac7617925152802419095b825444ee6d, type: 2}
+  - {fileID: 11400000, guid: cde9e3af802c2b441a6b408c2a79b6c9, type: 2}
+  - {fileID: 11400000, guid: fd7dabea6313c8e40976c50038885e28, type: 2}

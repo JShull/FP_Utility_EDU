@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2be9bb2aca60b7a41b4b4cd8eb11b169, type: 3}
+  m_Name: ImpactCompute_2.13_Objective
+  m_EditorClassIdentifier: 
+  UniqueID: V_A_O_2_13_001
+  VAStandardIndex: .1
+  StatePDFPageRef: 46
+  Objective: The student will compare and contrast examples of how computing technology
+    has changed and improved the way people live, work, and interact
+  SubObjectives: []
+  ContextOfStandard: "People have always used devices to assist in computation. They
+    can help in the collection, storage, or manipulation of data. Early computers
+    used mechanical components to perform calculations. In the early 1800s, the first
+    programmable computers were created. They were limited in their capability, and
+    relied heavily on people to do more complex computation. \r\n\r\nThese people
+    were referred to as computers due to their similar role. Many of these computers
+    were women who were employed in commerce, government, military, and research
+    establishments.  The development of computing technology has expanded exponentially
+    over the past 100 years. The development and modification of computing technology
+    is driven by people\u2019s needs and wants. Computing technologies influence,
+    and are influenced by, cultural practices."
+  EssentialSkills:
+  - {fileID: 11400000, guid: 86cbae106b2dc0b44a652b3490842eff, type: 2}
+  - {fileID: 11400000, guid: 9c12d9c21e43f0b4194234e5d17c425c, type: 2}
+  EssentialQuestions:
+  - {fileID: 11400000, guid: 348a3b960df18e248a6471b38edfe5e3, type: 2}
+  - {fileID: 11400000, guid: cae13ba9d01388944aa3dc32fd92840e, type: 2}
+  - {fileID: 11400000, guid: 63c73d1f5722a0349bbcdf10d22e57ab, type: 2}
+  - {fileID: 11400000, guid: e01d42bdac062894d8e72392ed500150, type: 2}
+  Vocabulary: []

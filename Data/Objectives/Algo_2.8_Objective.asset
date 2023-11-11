@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2be9bb2aca60b7a41b4b4cd8eb11b169, type: 3}
+  m_Name: Algo_2.8_Objective
+  m_EditorClassIdentifier: 
+  UniqueID: V_A_O_2_8_001
+  VAStandardIndex: .8
+  StatePDFPageRef: 40
+  Objective: The student will identify, using accurate terminology, simple hardware
+    and software problems that may occur during use (e.g. app or program not working
+    as expected, no sound, device won't turn on.)
+  SubObjectives: []
+  ContextOfStandard: Although computing systems may vary, common troubleshooting
+    strategies can be used on them, such as checking connections and power or swapping
+    a working part in place of a potentially defective part. Rebooting a machine
+    is commonly effective because it resets the computer. Since computing devices
+    are composed of an interconnected system of hardware and software, troubleshooting
+    strategies may need to address both. Students in second grade are expected to
+    use accurate terminology to describe simple problems with computer hardware and
+    software.
+  EssentialSkills:
+  - {fileID: 11400000, guid: 43ba57df68be1b740b03ebf3bb73cb4e, type: 2}
+  - {fileID: 11400000, guid: 27fe87ee3f565a44f8c65ecfc3264f4d, type: 2}
+  - {fileID: 11400000, guid: c44fadcaf7814a94f87dee4d9c0dec99, type: 2}
+  EssentialQuestions:
+  - {fileID: 11400000, guid: c13d11ea32d1bbc4abb164fb46b02581, type: 2}
+  - {fileID: 11400000, guid: 012a4830a89ddbb418adb37186314a81, type: 2}
+  - {fileID: 11400000, guid: 02070340af1a1bb4babf454b11b312cd, type: 2}
+  Vocabulary:
+  - {fileID: 11400000, guid: a85a54359c0b2744bae4aebd4257ca7b, type: 2}
+  - {fileID: 11400000, guid: ef9fef65af1b7994a99a7797e101a75b, type: 2}

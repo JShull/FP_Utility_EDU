@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce33cf22d5436eb43ab841dd6d615194, type: 3}
+  m_Name: 9_Debug
+  m_EditorClassIdentifier: 
+  UniqueID: V_A_00009
+  Word: Debug
+  URLReference: https://en.wiktionary.org/wiki/debug
+  IPAPronunciation: "di\u02D0\u02C8b\u028C\u0261"
+  URLWikiAudioOfWord: ssl.gstatic.com/dictionary/static/pronunciation/2022-03-02/audio/de/debug_en_us_1.mp3
+  URLAudioType: 13
+  Image: {fileID: 0}
+  Details:
+  - {fileID: 11400000, guid: 0cdcb46bfa175e748850756cbd8f3ea9, type: 2}
+  - {fileID: 11400000, guid: ab68a4543a780674890b5f95da792bb2, type: 2}
+  - {fileID: 11400000, guid: 7cca214b75132be4b841ec42e872ce2c, type: 2}
+  - {fileID: 11400000, guid: b722d83c8cb05bb43955bb229737dbf1, type: 2}
+  - {fileID: 11400000, guid: 3ac773dc92471234ab7d5f27ed991dfa, type: 2}

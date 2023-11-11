@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2be9bb2aca60b7a41b4b4cd8eb11b169, type: 3}
+  m_Name: Cybersecurity_2.10_Objective
+  m_EditorClassIdentifier: 
+  UniqueID: V_A_O_2_10_001
+  VAStandardIndex: .10
+  StatePDFPageRef: 41
+  Objective: The st udent will identify and create strong passwords, explain why
+    strong passwords should be used. (e.g. protect name, address, and telephone number)
+  SubObjectives: []
+  ContextOfStandard: "Connecting devices to a network or the Internet provides great
+    benefit, but care must be taken to protect private information such as a student\u2019s
+    name, phone number, and address. Passwords are used to protect devices and information
+    from unauthorized access. Because computer programs can be used to guess passwords,
+    strong passwords have characteristics that make them more difficult to guess.
+    Many sites have rules as to the length and composition of passwords; these rules
+    help create stronger passwords. The practice of not sharing passwords should
+    be emphasized in the classroom and at home. At the elementary level, students
+    are encouraged to use passwords. These passwords may not be as complex as those
+    used by adults in protecting information. Suggestions for creating strong passwords
+    for students include: \n1.) Use uppercase and loercase letters\n2.) Use numbers\n3.)
+    Use symbols\n4.) Use at least 8 characters\n5.) Don't use words from a dictionary\n6.)
+    Don't use the same password twice\n7.) Don't use personal information"
+  EssentialSkills:
+  - {fileID: 11400000, guid: cab07ada75de65848b0684a62781962d, type: 2}
+  - {fileID: 11400000, guid: 68a35185d62313a42937ed8fc9f6eb03, type: 2}
+  - {fileID: 11400000, guid: ae7dfa5284d18004091421ef0f4c3e49, type: 2}
+  - {fileID: 11400000, guid: 2d6d9156a63a0294fa3942a78a26f3b4, type: 2}
+  EssentialQuestions:
+  - {fileID: 11400000, guid: 82395eaa91776414c870ab001252b06c, type: 2}
+  - {fileID: 11400000, guid: 12f6a1055fca9da4bab5e3212448b9ca, type: 2}
+  Vocabulary:
+  - {fileID: 11400000, guid: 8fbee4a790c40ef49a42b32735a6ec19, type: 2}

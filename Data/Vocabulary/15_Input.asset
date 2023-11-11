@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce33cf22d5436eb43ab841dd6d615194, type: 3}
+  m_Name: 15_Input
+  m_EditorClassIdentifier: 
+  UniqueID: V_A_00015
+  Word: Input
+  URLReference: https://en.wiktionary.org/wiki/input#Pronunciation
+  IPAPronunciation: "\u026Anp\u028At"
+  URLWikiAudioOfWord: ssl.gstatic.com/dictionary/static/pronunciation/2022-03-02/audio/in/input_en_us_1.mp3
+  URLAudioType: 13
+  Image: {fileID: 0}
+  Details:
+  - {fileID: 11400000, guid: 2a033bb32c0632a449183de5469aa949, type: 2}
+  - {fileID: 11400000, guid: 9e4dad17d06f6f149979a4a22205f564, type: 2}
+  - {fileID: 11400000, guid: c94017db6cafb174c8c16f17a16ba650, type: 2}
+  - {fileID: 11400000, guid: f5694207f7b3a3e46aafde9fe28114a4, type: 2}
+  - {fileID: 11400000, guid: b9b7a484b9e1409488c039702aed8510, type: 2}

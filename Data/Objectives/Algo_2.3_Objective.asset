@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2be9bb2aca60b7a41b4b4cd8eb11b169, type: 3}
+  m_Name: Algo_2.3_Objective
+  m_EditorClassIdentifier: 
+  UniqueID: V_A_O_2_3_001
+  VAStandardIndex: .3
+  StatePDFPageRef: 35
+  Objective: The student will analyze, correct, and improve (debug) an algorithm
+    that includes sequencing and simple loops, with or without a computing device
+  SubObjectives: []
+  ContextOfStandard: The practice of reviewing work should be taught early and can
+    be applied across disciplines, including computer science. Students should check
+    that the sequence of steps that compose an algorithm works as intended. That
+    is the only way to determine if the algorithm appropriately reflects the steps
+    that must occur to complete a task. This process can be conducted for both computer
+    programs and unplugged activities. If the algorithm does not work as intended,
+    the students should determine the changes to make in the algorithm in order to
+    complete the task. These changes may include adding, deleting, rearranging, or
+    changing a step in order to obtain the intended outcome. The process of revising
+    a program so that it works as intended is called debugging.
+  EssentialSkills:
+  - {fileID: 11400000, guid: 1746c6508087eed4ca5009768218bedb, type: 2}
+  - {fileID: 11400000, guid: fe461791f2d04f94fa02322ebe4174f1, type: 2}
+  - {fileID: 11400000, guid: 7689d0da41f5e80438b1ec6bca2104dc, type: 2}
+  - {fileID: 11400000, guid: 441da079432082e45a2c8050acb08199, type: 2}
+  EssentialQuestions:
+  - {fileID: 11400000, guid: 4d30767e052926446835a6f8a6258f93, type: 2}
+  - {fileID: 11400000, guid: 072580de68fcd2e4c835a6c58423960b, type: 2}
+  - {fileID: 11400000, guid: 279ffdc063597f74f9bf4b80103d2dfe, type: 2}
+  Vocabulary:
+  - {fileID: 11400000, guid: 05936def0b3e77e4c86c7ffb3e8eab8a, type: 2}

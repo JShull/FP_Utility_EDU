@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2be9bb2aca60b7a41b4b4cd8eb11b169, type: 3}
+  m_Name: D_A_2.11_Objective 1
+  m_EditorClassIdentifier: 
+  UniqueID: V_A_O_2_11_001
+  VAStandardIndex: .11
+  StatePDFPageRef: 44
+  Objective: 'The student will construct and analyze data and organize it in a chart
+
+    or
+    graph in order to make a prediction, with or without a computing device.'
+  SubObjectives: []
+  ContextOfStandard: "The collection and use of data about individuals and the world
+    around them is a routine part of life and influences how people live.Data are
+    pieces of information collected about people or things. These data can be recorded
+    in tables and can be used to construct pictographs or bar graphs. Everyday digital
+    devices can be used to collect and display data over time. Examples include cell
+    phones, digital toys, and cars. These can contain tools (such as sensors) and
+    computers to collect and display data from their surrounding. \nOnce data has
+    been collected and organized into a chart or graph, it can be analyzed to determine
+    if a pattern exists. The pattern can be used to make predictions or answer questions"
+  EssentialSkills:
+  - {fileID: 11400000, guid: fa6bc44aebf8f0c4f9d9d007599164dd, type: 2}
+  - {fileID: 11400000, guid: 9f77af23ae65a2042aa9fa6a16ee31f1, type: 2}
+  EssentialQuestions:
+  - {fileID: 11400000, guid: 53eb66140b9c5734a80bdbab3daaace0, type: 2}
+  - {fileID: 11400000, guid: 84ca0a00cc728cc4a9cabc2e30c11f98, type: 2}
+  - {fileID: 11400000, guid: bee1f5296ac208c4795532e8b2da222a, type: 2}
+  Vocabulary:
+  - {fileID: 11400000, guid: 7c506a5d7edf8dc4bb08e373dba42994, type: 2}
+  - {fileID: 11400000, guid: fde0221ca4e18b94b91812531b1daaf0, type: 2}

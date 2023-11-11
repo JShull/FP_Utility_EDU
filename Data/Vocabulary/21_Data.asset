@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce33cf22d5436eb43ab841dd6d615194, type: 3}
+  m_Name: 21_Data
+  m_EditorClassIdentifier: 
+  UniqueID: V_A_00021
+  Word: Data
+  URLReference: https://en.wiktionary.org/wiki/data#English
+  IPAPronunciation: "d\xE6t\u0259"
+  URLWikiAudioOfWord: https://dictionary.cambridge.org/us/media/english/us_pron/d/dat/data_/data.mp3
+  URLAudioType: 13
+  Image: {fileID: 21300000, guid: 7cb2a5f7d1ab3774f94d8f820ae8c481, type: 3}
+  Details:
+  - {fileID: 11400000, guid: d1ac790758b9bde4aa3842959f456761, type: 2}

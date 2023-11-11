@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce33cf22d5436eb43ab841dd6d615194, type: 3}
+  m_Name: 04_Program
+  m_EditorClassIdentifier: 
+  UniqueID: V_A_00004
+  Word: Program
+  URLReference: https://en.wiktionary.org/wiki/program#English
+  IPAPronunciation: "p\u0279\u0259\u028A\u0261\u0279\xE6m"
+  URLWikiAudioOfWord: ssl.gstatic.com/dictionary/static/pronunciation/2022-03-02/audio/pr/program_en_us_1.mp3
+  URLAudioType: 13
+  Image: {fileID: 0}
+  Details:
+  - {fileID: 11400000, guid: 40dca69e4f62acc4d892fec4c92e2dcf, type: 2}
+  - {fileID: 11400000, guid: 7e69ce36879b7c44f888da877c340e0b, type: 2}

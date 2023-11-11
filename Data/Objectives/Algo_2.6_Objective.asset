@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2be9bb2aca60b7a41b4b4cd8eb11b169, type: 3}
+  m_Name: Algo_2.6_Objective
+  m_EditorClassIdentifier: 
+  UniqueID: V_A_O_2_6_001
+  VAStandardIndex: .6
+  StatePDFPageRef: 38
+  Objective: The student will acknowledge that materials are created by others (e.g.
+    author, illustrator, and website)
+  SubObjectives: []
+  ContextOfStandard: As students start to work with different artifacts (reference
+    materials, resources, etc.) they should understand that these sources of information
+    were created by others. Authors, illustrators, and programmers are responsible
+    for the creation of many sources of information that are used in the classroom
+    and at home. This standard begins an exploration of the concepts of intellectual
+    property laws and plagiarism. Students are not responsible for the terms property
+    laws and plagiarism in second grade.
+  EssentialSkills:
+  - {fileID: 11400000, guid: cec06a757b2d16646bf2e25f76e4f717, type: 2}
+  - {fileID: 11400000, guid: ff43b8d6c9cdce64888dd17538310424, type: 2}
+  - {fileID: 11400000, guid: 111ef9e623eec1c45bf2ae401617f3a6, type: 2}
+  - {fileID: 11400000, guid: d07155245f9f57f40a7c2e4a0c2f83af, type: 2}
+  EssentialQuestions:
+  - {fileID: 11400000, guid: fb9f28665992ee549abe61c2fde944ee, type: 2}
+  - {fileID: 11400000, guid: 7f9f3ca557f0316478b28371de225ca5, type: 2}
+  - {fileID: 11400000, guid: c8e334fb2ca733d4ba1607673dd4a517, type: 2}
+  Vocabulary:
+  - {fileID: 11400000, guid: 273199cfba12a8c42ae9c0a362518e4d, type: 2}
+  - {fileID: 11400000, guid: 79c49b1fedebd89458ef33297861acf1, type: 2}
+  - {fileID: 11400000, guid: b13b5c8f6400ecc42a0990972753ac06, type: 2}
+  - {fileID: 11400000, guid: 8c97adff548bbd7459c4d2709f4be23d, type: 2}

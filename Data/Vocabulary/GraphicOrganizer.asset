@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce33cf22d5436eb43ab841dd6d615194, type: 3}
+  m_Name: GraphicOrganizer
+  m_EditorClassIdentifier: 
+  UniqueID: V_A_00007
+  Word: Graphic Organizer
+  URLReference: https://en.wikipedia.org/wiki/Graphic_organizer
+  IPAPronunciation: 
+  URLWikiAudioOfWord: 
+  Image: {fileID: 0}
+  Details:
+  - {fileID: 11400000, guid: 9bf47cb25ad639a4faca3ffd84e7ad9b, type: 2}
+  - {fileID: 11400000, guid: 9ae9e34723adb9243ab2b0e42d7a2cce, type: 2}
+  - {fileID: 11400000, guid: 33a07f0ff707a1b4783428c71e2e1e99, type: 2}
+  - {fileID: 11400000, guid: 51323cc8453a9c044b578a1a7a268260, type: 2}

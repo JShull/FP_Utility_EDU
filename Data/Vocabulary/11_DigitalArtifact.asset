@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce33cf22d5436eb43ab841dd6d615194, type: 3}
+  m_Name: 11_DigitalArtifact
+  m_EditorClassIdentifier: 
+  UniqueID: V_A_00011
+  Word: Digital Artifact
+  URLReference: 
+  IPAPronunciation: 
+  URLWikiAudioOfWord: 
+  Image: {fileID: 0}
+  Details:
+  - {fileID: 11400000, guid: 7d497f7bde5f2624c8e9b2e5975ee239, type: 2}

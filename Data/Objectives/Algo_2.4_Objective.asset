@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2be9bb2aca60b7a41b4b4cd8eb11b169, type: 3}
+  m_Name: Algo_2.4_Objective
+  m_EditorClassIdentifier: 
+  UniqueID: V_A_O_2_4_001
+  VAStandardIndex: .4
+  StatePDFPageRef: 36
+  Objective: The student will plan and create a design document to illustrate thoughts,
+    ideas, and stories in a sequential (step-by-step) manner (e.g. story map, storyboard,
+    sequential graphic organizer)
+  SubObjectives: []
+  ContextOfStandard: As students write and tell stories, they use tools such as story
+    maps, storyboards, and sequential graphic organizers to plan and describe events.
+    In second grade, planning stories becomes more complex as they begin to add descriptive
+    details to their stories. Planning a story is similar to writing an algorithm
+    or program in that there are steps that are followed as the author determines
+    the beginning, middle and end of the story as well as adds details to accomplish
+    a task. Just as there are multiple ways to tell a story, different algorithms
+    can be used to describe a task. While the end results may be similar, the actual
+    pathway to achieve the task may not be the same. This standard is intended to
+    develop a fundamental understanding that programs can be developed using similar
+    strategies as stories
+  EssentialSkills:
+  - {fileID: 11400000, guid: 95364634a264a8646bff20c4e0bde86e, type: 2}
+  - {fileID: 11400000, guid: 99d62a335bb035c46950bb4584211c02, type: 2}
+  - {fileID: 11400000, guid: a015d96c29fc46a43961c6cafe5bfc16, type: 2}
+  EssentialQuestions:
+  - {fileID: 11400000, guid: 3a7649b1370bbbe408d03244339d7dbf, type: 2}
+  - {fileID: 11400000, guid: 7de40df812d9b2d4a9c7834428755c04, type: 2}
+  - {fileID: 11400000, guid: d0ebdb6e5e7e82244b9c6a76fe4de531, type: 2}
+  Vocabulary:
+  - {fileID: 11400000, guid: 33e6606371b40ba49911ca0bf1579421, type: 2}
+  - {fileID: 11400000, guid: 1724ed59e3032f048b8bc17ae185e0f0, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce33cf22d5436eb43ab841dd6d615194, type: 3}
+  m_Name: 05_Repeat
+  m_EditorClassIdentifier: 
+  UniqueID: V_A_00005
+  Word: Repeat
+  URLReference: https://en.wikipedia.org/wiki/Repetition_(rhetorical_device)
+  IPAPronunciation: "\u0279\u026A\u02C8pi\u02D0t"
+  URLWikiAudioOfWord: ssl.gstatic.com/dictionary/static/pronunciation/2022-03-02/audio/re/repeat_en_us_1.mp3
+  URLAudioType: 13
+  Image: {fileID: 0}
+  Details: []
