@@ -6,15 +6,14 @@ namespace FuzzPhyte.Utility.EDU
 {
     [Serializable]
     [CreateAssetMenu(fileName = "Vocabulary", menuName = "FuzzPhyte/Utility/EDU/Vocabulary", order = 1)]
-    public class FP_Vocab : FP_EDU_Data
+    public class FP_Vocab : FP_Data
     {
         public string Word;
-        public string URLReference;
         public string IPAPronunciation;
-        public string URLWikiAudioOfWord;
-        public AudioType URLAudioType;
-        public Sprite Image;
-        public List<FP_Vocab_Details> Details;
+        public FP_Language Language;
+        [TextArea(2,4)]
+        public string Definition;
+        public FP_Audio WordAudio;
+        public List<FP_Vocab> Translations;
     }
-
 }
