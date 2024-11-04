@@ -5,7 +5,7 @@ namespace FuzzPhyte.Utility.EDU
 {
     [Serializable]
     [CreateAssetMenu(fileName = "Grade", menuName = "FuzzPhyte/Utility/EDU/Grade", order = 9)]
-    public class FP_Grade : ScriptableObject
+    public class FP_Grade : FP_EDU_Data
     {
         public string GradeName;
         //0 = KG, 1=first, 2=second, etc.

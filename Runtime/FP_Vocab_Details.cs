@@ -5,7 +5,7 @@ namespace FuzzPhyte.Utility.EDU
 {
     [Serializable]
     [CreateAssetMenu(fileName = "VocabDetails", menuName = "FuzzPhyte/Utility/EDU/VocabDetails", order = 2)]
-    public class FP_Vocab_Details : ScriptableObject
+    public class FP_Vocab_Details : FP_EDU_Data
     {
         public FP_Grade GradeLevels;
         public int StatePDFPageRef;

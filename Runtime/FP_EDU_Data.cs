@@ -7,7 +7,7 @@ namespace FuzzPhyte.Utility.EDU
     /// <summary>
     /// Base class for all things tied to Data for EDU and Scriptable Objects
     /// </summary>
-    public class FP_EDU_Data : ScriptableObject
+    public abstract class FP_EDU_Data : ScriptableObject
     {
         /// <summary>
         /// Must be UNIQUE

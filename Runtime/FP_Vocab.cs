@@ -6,7 +6,7 @@ namespace FuzzPhyte.Utility.EDU
 {
     [Serializable]
     [CreateAssetMenu(fileName = "Vocabulary", menuName = "FuzzPhyte/Utility/EDU/Vocabulary", order = 1)]
-    public class FP_Vocab : FP_Data
+    public class FP_Vocab : FP_EDU_Data
     {
         public string Word;
         public string IPAPronunciation;
