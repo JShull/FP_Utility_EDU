@@ -14,6 +14,7 @@ namespace FuzzPhyte.Utility.EDU
         [TextArea(2,4)]
         public string Definition;
         public FP_Audio WordAudio;
+        public FP_Audio DefinitionAudio;
         public List<FP_Vocab> Translations;
     }
 }
