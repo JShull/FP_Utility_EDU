@@ -8,6 +8,10 @@ namespace FuzzPhyte.Utility.EDU
     [CreateAssetMenu(fileName = "Vocabulary", menuName = "FuzzPhyte/Utility/EDU/Vocabulary", order = 1)]
     public class FP_Vocab : FP_EDU_Data
     {
+        //I+1 = cap on going from one to the next but no more Input hypothesis
+        // prime for incedental acquisition learning
+        // glossing = term for pop up/ bringing attention to items via labels
+        // post Q&A should have a random 'incidential' item thrown in based on actions and/or lack of actions
         public string Word;
         public string IPAPronunciation;
         public FP_Language Language;
