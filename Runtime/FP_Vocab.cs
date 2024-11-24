@@ -27,6 +27,6 @@ namespace FuzzPhyte.Utility.EDU
         [Space]
         [Header("Connections and Translations")]
         public List<FP_Vocab> Translations;
-        public List<FP_Vocab> Synonyms;
+        public List<FPSemanticMap> SemanticMaps;
     }
 }
