@@ -7,6 +7,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.0] - 2025-04-21
+
+### 0.3.0 Added
+
+- [@JShull](https://github.com/jshull).
+  - FPLanguageAdjectiveRules
+    - Holds a list of FP_VocabSupport Sort Order
+    - Holds a HashSet for PreNounCategories
+
+### 0.3.0 Changed
+
+- [@JShull](https://github.com/jshull).
+  - Modified: FPSemanticMap.cs
+    - Now includes a static class FPLanguageUtility which holds Language rules for:
+      - USEnglishRules
+      - FrenchRules
+      - SpanishRules
+
 ## [0.2.0] - 2023-11-11
 
 ### 0.2.0 Added

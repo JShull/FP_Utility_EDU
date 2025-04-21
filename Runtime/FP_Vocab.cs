@@ -34,6 +34,7 @@ namespace FuzzPhyte.Utility.EDU
         // it's association is just singular based on English concepts and might not work for all cases
         // this is more/less for early modules to give us additional information when needed
         // e.g. user picks an article of clothing that has a 'color' and 'size' but not a 'shape'
+        // JOHN: Dont use these
         public FP_Vocab Opinion;
         public FP_Vocab Size;
         public FP_Vocab Color;

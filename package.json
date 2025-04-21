@@ -1,6 +1,6 @@
 {
     "name": "com.fuzzphyte.utility.edu",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "displayName": "FP Utility EDU",
     "description": "FP Utility EDU are classes that mainly make up scriptable objects utilized for EDU needs associated with VA",
     "unity": "2022.3",
