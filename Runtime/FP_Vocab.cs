@@ -43,5 +43,28 @@ namespace FuzzPhyte.Utility.EDU
         public FP_Vocab Texture;
         public FP_Vocab Material;
         public FP_Vocab Purpose;
+
+        /// <summary>
+        /// Used to reduce search
+        /// </summary>
+        /// <param name="languageFind"></param>
+        /// <returns></returns>
+        public (bool,FP_Vocab) ReturnTranslatedFPVocab(FP_Language languageFind)
+        {
+            for (int i = 0; i < Translations.Count; i++)
+            {
+                var curTranslationLanguage = Translations[i];
+                if (curTranslationLanguage.Language == languageFind)
+                {
+                    return (true,curTranslationLanguage);
+                }
+            }
+            //maybe you requested a translation but I am already this language
+            if (Language == languageFind)
+            {
+                return (true, this);
+            }
+            return (false,null);
+        }
     }
 }
